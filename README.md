@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hello World, I'm Mahmoud Kafafi</h1>
+<h1 align="center">👋 Hey there, I'm Mahmoud Kafafi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+Birzeit+University;Full-Stack+Developer+in+progress...;Always+learning+something+new+🚀;Building+clean+and+impactful+code+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=CS+Student+at+Birzeit+University;Web+Development+Enthusiast+%F0%9F%92%BB;Learning+New+Tech+Every+Day+%F0%9F%94%A5;Building+Real+Projects+with+Clean+Code" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💡 Computer Science student at Birzeit University.
-- 🌱 Currently exploring full-stack development, algorithms & databases.
-- 🧠 Passionate about clean code, problem-solving & practical software engineering.
-- 🔍 Always learning and trying out new tools and tech.
+- 🎓 A passionate Computer Science student at **Birzeit University**.
+- 💻 I enjoy building full-stack web applications and solving real-world problems.
+- 🧠 Focused on writing clean, maintainable code and learning industry best practices.
+- 🚀 I believe in continuous learning and pushing boundaries with every project.
 
 ---
 
@@ -39,14 +39,15 @@
 
 ---
 
-### 🌱 Currently Learning
-- Software Engineering Principles & Best Practices
-- Secure Web Development
-- Data Structures & Algorithms
+### 📚 Currently Exploring
+
+- Advanced Web Development Techniques
+- Secure and Scalable PHP & MySQL Applications
+- Data Structures, Algorithms & Competitive Coding
 
 ---
 
-### 📫 Connect with Me
+### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-kafafi-23bba4374)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m7mod._18)
@@ -54,6 +55,6 @@
 
 ---
 
-### 💬 Quote I Live By
+### 💡 Motto
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+> *"The best way to learn is by building."*
